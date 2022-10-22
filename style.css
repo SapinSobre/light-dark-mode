@@ -46,6 +46,7 @@ h1 {
   font-size: 100px;
   margin-bottom: 0;
   font-family: kaushan script, arial, sans-serif;
+  color: var(--on-background);
 }
 
 h2 {
@@ -260,4 +261,12 @@ input:checked + .slider::before {
 .fas {
   font-size: 30px;
   margin-right: 5px;
+}
+
+.fa-sun {
+  color: #000;
+}
+
+.fa-moon {
+  color: #fff;
 }
