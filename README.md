@@ -1,0 +1,1 @@
+[Go to the site](https://SapinSobre.github.io/light-dark-mode)
